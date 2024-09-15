@@ -58,7 +58,7 @@ body {
       transparent 19px,
       transparent 22px
     ),
-    linear-gradient(90deg, rgb(255, 94, 0), rgb(240, 240, 240));
+    linear-gradient(90deg, rgb(255, 0, 0), rgb(240, 240, 240));
 }
 
 .flowers {
@@ -835,7 +835,7 @@ body {
   background-image: linear-gradient(
     to top,
     transparent,
-    #028137,
+    #00461d,
     transparent 100%
   );
   position: relative;
@@ -1972,7 +1972,7 @@ body {
 
 @-webkit-keyframes love {
   50% {
-    fill: rgb(253, 66, 19);
+    fill: rgb(161, 0, 0);
     opacity: 1;
   }
 }
